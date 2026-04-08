@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>NeoSocrates Support</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="font-family: Arial, sans-serif; background-color: #f9f9f9; margin: 0; padding: 0;">
+
+  <div style="max-width: 600px; margin: 60px auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 5px 20px rgba(0,0,0,0.05);">
+    
+    <h1 style="margin-top: 0;">NeoSocrates Support</h1>
+
+    <p><strong>Willkommen beim offiziellen Support von NeoSocrates.</strong></p>
+
+    <p>
+      Wenn du Fragen, Probleme oder Feedback zur App hast, kannst du uns jederzeit kontaktieren.
+    </p>
+
+    <h2>Kontakt</h2>
+    <p>
+      📧 <a href="mailto:info.neosocratesshop@web.de">info.neosocratesshop@web.de</a>
+    </p>
+
+    <h2>Hinweis</h2>
+    <p>
+      Wir bemühen uns, alle Anfragen schnellstmöglich zu beantworten.
+    </p>
+
+  </div>
+
+</body>
+</html>
